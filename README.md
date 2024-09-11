@@ -2,7 +2,7 @@
 
 Live Preview - https://simpletodosub.netlify.app/
 
-### Made using React, Context API & Tailwind CSS
+### Made using React, Context API, Local Storage & Tailwind CSS
 
 ### Responsive Design
 
