@@ -12,7 +12,7 @@ Live Preview - https://simpletodosub.netlify.app/
 
 ### Mobile
 
-<img src="https://github.com/user-attachments/assets/98ec3a73-973e-4e8d-8e7c-12cb3f7ce7bd" width="300px" />
+<img src="https://github.com/user-attachments/assets/98ec3a73-973e-4e8d-8e7c-12cb3f7ce7bd" width="200px" />
 
 
 #### Steps to run
